@@ -1,0 +1,18 @@
+.leftside, .rightside {
+
+height:60vh;
+width: 100%
+}
+
+.leftside {
+  background: lime ;
+}
+
+.rightside {
+  background: lime ;
+}
+.leftsides, .rightsides {
+
+height:30vh;
+width: 100%
+}
